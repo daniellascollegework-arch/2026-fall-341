@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="gWmnL00Qn0uwzb69dEfb" name="Page-1">
+    <mxGraphModel dx="1903" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="-358" y="57" as="geometry" />
+        </mxCell>
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Run the credit check" vertex="1">
+          <mxGeometry height="60" width="120" x="43" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-4" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="140" as="geometry">
+            <Array as="points" />
+            <mxPoint x="163" y="102.5" as="sourcePoint" />
+            <mxPoint x="285" y="102.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Record the sale" vertex="1">
+          <mxGeometry height="60" width="120" x="284" y="77" as="geometry" />
+        </mxCell>
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-6" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="140" as="geometry">
+            <Array as="points" />
+            <mxPoint x="404" y="102.5" as="sourcePoint" />
+            <mxPoint x="544" y="102.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-11" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="75" width="75" x="538" y="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;Take the customer order" vertex="1">
+          <mxGeometry height="60" width="120" x="-172" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-14" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="140" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-280.34000000000003" y="98" as="sourcePoint" />
+            <mxPoint x="-172" y="98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sRSX9NmuTvno_VMi8P6-15" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" width="140" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-56" y="100.5" as="sourcePoint" />
+            <mxPoint x="35.85" y="100.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
